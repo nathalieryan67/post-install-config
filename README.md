@@ -75,7 +75,7 @@ We then move to configure teams. Teams allow us to group agents from different d
 <img src="https://i.imgur.com/QRgrHmA.jpg" height="80%" width="80%"/>
 </p>
 <p>
-In order to allow anyone to create tickets, we go to Admin Panel > Settings > Users. We uncheck the option called “Require registration and login to create tickets”. This will enable unregistered users, those without an account, to submit tickets as needed. 
+In order to allow anyone to create tickets, we go to Admin Panel > Settings > Users. We uncheck the option called “Require registration and login to create tickets”. This will enable unregistered users (those without an account) to submit tickets as needed. 
 </p>
 <br />
 
