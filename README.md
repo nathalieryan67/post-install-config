@@ -83,7 +83,7 @@ In order to allow anyone to create tickets, we go to Admin Panel > Settings > Us
 <img src="https://i.imgur.com/kCxQ3r1.jpg" height="80%" width="80%"/>
 </p>
 <p>
-Before any tickets can be processed, we need to configure agents (workers). We go to the Admin Panel > Agents > Add New Agent. We fill in the details for each agent, including their name, email address, assigned role and department. This will set up each agent’s profile and appropriate permissions. 
+Before any tickets can be processed, we need to configure agents (workers). We go to Admin Panel > Agents > Add New Agent. We fill in the details for each agent, including their name, email address, assigned role and department. This will set up each agent’s profile and appropriate permissions. 
 </p>
 <br />
 
