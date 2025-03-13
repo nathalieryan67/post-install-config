@@ -103,7 +103,7 @@ For the purposes of our project, we need to configure users (customers). We go t
 <img src="https://i.imgur.com/qRwWI7b.jpg" height="80%" width="80%"/>
 </p>
 <p>
-To assist users in submitting tickets, it’s advisable to configure help topics. We navigate to the Admin Panel > Manage > Help Topics. The help topics we add can then be used as a guide to users in categorizing their tickets more effectively. 
+To assist users in submitting tickets, it’s advisable to configure help topics. We navigate to Admin Panel > Manage > Help Topics. The help topics we add can then be used as a guide to users in categorizing their tickets more effectively. 
 </p>
 <br />
 
@@ -111,6 +111,6 @@ To assist users in submitting tickets, it’s advisable to configure help topics
 <img src="https://i.imgur.com/ZdfeCCK.jpg" height="80%" width="80%"/>
 </p>
 <p>
-As tickets are generated, it’s a good idea for agents to categorize them based on pre-determined priorities. Service Level Agreements (SLAs) are a great way to do this so that tickets with the highest urgency are dealt with more quickly. To configure SLAs we go to the Admin Panel > Manage > SLA. 
+As tickets are generated, it’s a good idea for agents to categorize them based on pre-determined priorities. Service Level Agreements (SLAs) are a great way to do this so that tickets with the highest urgency are dealt with more quickly. To configure SLAs we go toAdmin Panel > Manage > SLA. 
 </p>
-<br />
+<br /> 
