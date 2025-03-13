@@ -95,7 +95,7 @@ Before any tickets can be processed, we need to configure agents (workers). We g
 <img src="https://i.imgur.com/WLHIpiR.jpg" height="80%" width="80%"/>
 </p>
 <p>
-For the purposes of our project, we need to configure users (customers). We go to the Agent Panel > Users > User Directory > Add User. We add users Shawn and Rachel by entering their details, including their names, email addresses. This will enable our users to submit and manage their tickets. 
+For the purposes of our project, we need to configure users (customers). We go to the Agent Panel > Users > User Directory > Add User. We add users Shawn and Rachel by entering their details, including their names and email addresses. This will enable our users to submit and manage their tickets. 
 </p>
 <br />
 
